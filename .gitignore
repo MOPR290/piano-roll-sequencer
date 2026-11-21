@@ -1,0 +1,22 @@
+# ---- 版权素材：本地保留，不进版本库 ----
+Music/
+txtFiles/
+Samples/
+audio_samples/
+audio_time_stretch/
+
+# ---- 临时文件 / 备份 ----
+d.txt
+*.bak
+*.bak_*
+_旧版备份_*/
+__pycache__/
+*.pyc
+.workbuddy/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
